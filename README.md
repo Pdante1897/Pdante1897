@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 
 <br><br>
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pdante1897&langs_private=true&theme=dark)]()
 <br><br>
+<img height="170" alt="Pdante1897's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pdante1897&show_icons=true&theme=dark&count_private=true" />
+<br><br>
+
+
 
 Knowledges
 <div>
